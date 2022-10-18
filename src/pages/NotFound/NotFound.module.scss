@@ -1,0 +1,13 @@
+.page {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+
+  .code {
+    font-size: 40px;
+    color: #F57328;
+  }
+}

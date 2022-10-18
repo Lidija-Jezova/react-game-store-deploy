@@ -1,38 +1,42 @@
-.App {
-  text-align: center;
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1, h2, h3, h4, h5, h6, input, button, textarea {
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: inherit;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+ul li {
+    list-style: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+a, a:visited, a:hover {
+    text-decoration: none;
 }
 
-.App-link {
-  color: #61dafb;
+body {
+    font-family: 'Maven Pro', sans-serif;
+    color: #F6F6F6;
+    background-color: #222831;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-wrapper {
+    max-width: 1220px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 0 10px;
+    background-color: #393E46;
+    /*background-color: #575e6b;*/
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.main {
+    flex-grow: 1;
 }

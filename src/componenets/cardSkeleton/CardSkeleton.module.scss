@@ -1,0 +1,7 @@
+.skeleton {
+  width: 380px;
+
+  @media (max-width: 480px) {
+    width: 100%;
+  }
+}

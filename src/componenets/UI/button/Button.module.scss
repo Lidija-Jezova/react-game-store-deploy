@@ -1,0 +1,23 @@
+.button {
+  display: block;
+  padding: 15px 20px;
+  min-width: 100px;
+  border-radius: 8px;
+  color: #F6F6F6;
+  font-weight: 400;
+  background-color: #F57328;
+  cursor: pointer;
+  transition: all 0.1s ease 0s;
+
+  &:hover {
+    background-color: #e06924;
+  }
+
+  &:active {
+    background-color: #d06121;
+  }
+
+  &.allWidth {
+    width: 100%;
+  }
+}

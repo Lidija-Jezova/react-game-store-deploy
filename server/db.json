@@ -1,0 +1,260 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "DOOM Eternal",
+      "releaseDate": "2020-04-20",
+      "genres": [
+        "Action",
+        "FPS",
+        "Gore",
+        "Shooter",
+        "Demons"
+      ],
+      "price": 39.99,
+      "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you.",
+      "image": "https://www.pixelstalk.net/wp-content/uploads/images6/Doom-Eternal-HD-Wallpaper-Free-download.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cyberpunk 2077",
+      "releaseDate": "2020-12-10",
+      "genres": [
+        "Cyberpunk",
+        "Open World",
+        "RPG"
+      ],
+      "price": 59.99,
+      "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+      "image": "https://cdn.igromania.ru/mnt/games/4/9/4/a/d/0/14727/73f7677257f9bfa6_1920xH.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Stardew Valley",
+      "releaseDate": "2016-02-26",
+      "genres": [
+        "Agriculture",
+        "Farming Sim",
+        "Life Sim",
+        "Pixel Graphics",
+        "Sandbox"
+      ],
+      "price": 13.99,
+      "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_616x353.jpg?t=1608624324"
+    },
+    {
+      "id": 4,
+      "name": "Far Cry 5",
+      "releaseDate": "2018-04-27",
+      "genres": [
+        "Open World",
+        "Co-op",
+        "Action",
+        "FPS",
+        "Shooter",
+        "Story Rich"
+      ],
+      "price": 59.99,
+      "description": "Welcome to Hope County, Montana, home to a fanatical doomsday cult known as Eden’s Gate. Stand up to cult leader Joseph Seed & his siblings, the Heralds, to spark the fires of resistance & liberate the besieged community.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/552520/capsule_616x353.jpg?t=1628209646"
+    },
+    {
+      "id": 5,
+      "name": "Grand Theft Auto V",
+      "releaseDate": "2015-05-14",
+      "genres": [
+        "Open World",
+        "Multiplayer",
+        "Action"
+      ],
+      "price": 19.99,
+      "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_616x353.jpg?t=1618856444"
+    },
+    {
+      "id": 6,
+      "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+      "releaseDate": "2016-02-05",
+      "genres": [
+        "Anime",
+        "Fighting",
+        "Action",
+        "Multiplayer",
+        "Ninja"
+      ],
+      "price": 29.99,
+      "description": "The latest opus in the acclaimed STORM series is taking you on a colourful and breathtaking ride. Take advantage of the totally revamped battle system and prepare to dive into the most epic fights you’ve ever seen!",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/349040/capsule_616x353.jpg?t=1611701005"
+    },
+    {
+      "id": 7,
+      "name": "ELDEN RING",
+      "releaseDate": "2022-02-25",
+      "genres": [
+        "Souls-like",
+        "Dark Fantasy",
+        "RPG",
+        "Action"
+      ],
+      "price": 59.99,
+      "description": "THE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg?t=1654259241"
+    },
+    {
+      "id": 8,
+      "name": "Terraria",
+      "releaseDate": "2011-05-16",
+      "genres": [
+        "Open World",
+        "Sandbox",
+        "Survival",
+        "Pixel Graphics",
+        "Crafting"
+      ],
+      "price": 9.99,
+      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg?t=1590092560"
+    },
+    {
+      "id": 9,
+      "name": "Age of Empires II: Definitive Edition",
+      "releaseDate": "2019-11-14",
+      "genres": [
+        "Strategy",
+        "RTS",
+        "City Builder",
+        "Multiplayer"
+      ],
+      "price": 19.99,
+      "description": "Age of Empires II: Definitive Edition features “The Last Khans” with 3 new campaigns and 4 new Civilizations. Frequent updates include events, additional content, new game modes, and enhanced features with the recent addition of Co-Op mode!",
+      "image": "https://cdn-cf.gamivo.com/image_cover.jpg?f=125248&n=10202306927235427.jpg&h=5318d3e277523d3b4aea91241a55693f"
+    },
+    {
+      "id": 10,
+      "name": "7 Days to Die",
+      "releaseDate": "2013-12-13",
+      "genres": [
+        "Survival",
+        "Zombies",
+        "Voxel",
+        "Open World",
+        "Sandbox",
+        "Crafting"
+      ],
+      "price": 22.99,
+      "description": "7 Days to Die is an open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/251570/capsule_616x353.jpg?t=1650477344"
+    },
+    {
+      "id": 11,
+      "name": "Don't Starve",
+      "releaseDate": "2013-05-23",
+      "genres": [
+        "Survival",
+        "Crafting",
+        "Open World",
+        "Sandbox"
+      ],
+      "price": 8.19,
+      "description": "Don’t Starve is an uncompromising wilderness survival game full of science and magic. Enter a strange and unexplored world full of strange creatures, dangers, and surprises. Gather resources to craft items and structures that match your survival style.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/219740/header.jpg?t=1647292111"
+    },
+    {
+      "id": 12,
+      "name": "DOOM",
+      "releaseDate": "2016-05-13",
+      "genres": [
+        "Action",
+        "FPS",
+        "Gore",
+        "Shooter",
+        "Demons"
+      ],
+      "price": 19.99,
+      "description": "Now includes all three premium DLC packs (Unto the Evil, Hell Followed, and Bloodfall), maps, modes, and weapons, as well as all feature updates including Arcade Mode, Photo Mode, and the latest Update 6.66, which brings further multiplayer improvements as well as revamps multiplayer progression.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/379720/capsule_616x353.jpg?t=1593395083"
+    },
+    {
+      "id": 13,
+      "name": "Red Dead Redemption 2",
+      "releaseDate": "2019-12-05",
+      "genres": [
+        "Open World",
+        "Adventure",
+        "Shooter",
+        "Action",
+        "Western",
+        "Story Rich"
+      ],
+      "price": 59.99,
+      "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1656615305"
+    },
+    {
+      "id": 14,
+      "name": "Marvel’s Spider-Man Remastered",
+      "releaseDate": "2022-08-12",
+      "genres": [
+        "Open World",
+        "Adventure",
+        "Action",
+        "Superhero",
+        "Singleplayer"
+      ],
+      "price": 59.99,
+      "description": "In Marvel’s Spider-Man Remastered, the worlds of Peter Parker and Spider-Man collide in an original action-packed story. Play as an experienced Peter Parker, fighting big crime and iconic villains in Marvel’s New York. Web-swing through vibrant neighborhoods and defeat villains with epic takedowns.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/header.jpg?t=1660316394"
+    },
+    {
+      "id": 15,
+      "name": "God of War",
+      "releaseDate": "2022-01-14",
+      "genres": [
+        "RPG",
+        "Adventure",
+        "Story Rich",
+        "Action",
+        "Singleplayer"
+      ],
+      "price": 49.99,
+      "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1593500/capsule_616x353.jpg?t=1650554420"
+    }
+  ],
+  "genres": [
+    "",
+    "RPG",
+    "Adventure",
+    "Story Rich",
+    "Action",
+    "Singleplayer",
+    "Open World",
+    "Superhero",
+    "Shooter",
+    "Western",
+    "FPS",
+    "Gore",
+    "Demons",
+    "Survival",
+    "Crafting",
+    "Sandbox",
+    "Zombies",
+    "Voxel",
+    "Strategy",
+    "RTS",
+    "City Builder",
+    "Multiplayer",
+    "Pixel Graphics",
+    "Souls-like",
+    "Dark Fantasy",
+    "Anime",
+    "Fighting",
+    "Ninja",
+    "Co-op",
+    "Cyberpunk",
+    "Agriculture",
+    "Farming Sim",
+    "Life Sim"
+  ]
+}
