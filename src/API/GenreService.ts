@@ -2,7 +2,7 @@ import axios from "axios";
 
 export default class GenreService {
     static instance = axios.create({
-        baseURL: 'http://localhost:3001/'
+        baseURL: `${process.env.API_URL}`
     });
 
     static async getAll() {
