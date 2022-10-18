@@ -2,7 +2,7 @@ import axios from "axios";
 
 export default class GenreService {
     static instance = axios.create({
-        baseURL: ``
+        baseURL: `https://react-online-game-store.herokuapp.com/`
     });
 
     static async getAll() {

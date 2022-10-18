@@ -3,7 +3,7 @@ import React, {Component} from "react";
 
 export default class GameService {
     static instance = axios.create({
-        baseURL: ``
+        baseURL: `https://react-online-game-store.herokuapp.com/`
     });
 
     static async getAll() {
