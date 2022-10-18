@@ -3,7 +3,7 @@ import React, {Component} from "react";
 
 export default class GameService {
     static instance = axios.create({
-        baseURL: `${process.env.BASE_URL}`
+        baseURL: ``
     });
 
     static async getAll() {

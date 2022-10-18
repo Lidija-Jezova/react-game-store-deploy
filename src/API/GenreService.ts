@@ -2,7 +2,7 @@ import axios from "axios";
 
 export default class GenreService {
     static instance = axios.create({
-        baseURL: `${process.env.BASE_URL}`
+        baseURL: ``
     });
 
     static async getAll() {
